@@ -10,4 +10,4 @@
 
 ## Known inaccuracies
 - This program ignores minion setup time, so the time it takes for an emerald minion to place the first 24 emeralds is not included in the final result.
-- There was no surefire way for me to calculate the exact number of items that will drop from plants, such as melons or cocoa beans, and mobs, so the most common amount I got from manually farming is what I used in its place. If anyone has a more accurate way to calculate these items, feel free to contribute.
+- There was no surefire way for to calculate the exact number of items that will drop from plants, such as melons or cocoa beans, and mobs, so the most common amount I got from manually farming is what I used in its place. If anyone has a more accurate way to calculate these items, feel free to contribute.
