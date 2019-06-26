@@ -1,7 +1,7 @@
 # HypixelCalculator
 Simple minion calculator for Hypixel's Skyblock mode
 
-## Some known inaccuracies
+## Known inaccuracies
 - Due to random amounts per mob kill and specific ores like lapis or redstone, not all calculations are %100 accurate.
 - Minion setup time is not included, minion setup time meaning the first few actions it takes for the minion to place the initial blocks.
 - Fuel is not accounted for, but some simple math shown below can help remedy this problem.
